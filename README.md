@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+🔭 I’m currently working on my Middle School Course
+🌱 I’m currently learning Python & JavaScript
+🤔 I’m looking for help with my Middle School Course
+📫 How to reach me: Why not write an email to me?
 <!--
 **lavacup2233/lavacup2233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
