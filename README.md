@@ -1,11 +1,11 @@
 ### Hi there 👋
-🔭 I’m currently working on my Middle School Course
+🔭 I’m currently working on High School Course
 
-🌱 I’m currently learning Python & JavaScript
+🌱 I’m currently learning Python & C
 
-📫 How to reach me: Why not write an email to me?
+📫 How to reach me  : Why not write an email to me?
 
-❗NEW MESSAGE from LavaCup2233:The account may be temporarily unavailable due to Gaokao.
+❗ NEW MESSAGE from LavaCup2233  : The account may be temporarily unavailable due to Gaokao.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lavacup2233)](https://github.com/anuraghazra/github-readme-stats)
 <!--
