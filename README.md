@@ -6,6 +6,8 @@
 📫 How to reach me  : Why not write an email to me?
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lavacup2233)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **lavacup2233/lavacup2233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
