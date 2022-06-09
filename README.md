@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on High School Course
+🔭 I’m currently working on Operating System
 
 📫 How to reach me  : Why not write an email to me?
 
