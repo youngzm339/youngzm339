@@ -4,4 +4,4 @@
 
 📫 How to reach me : Why not write an email to me?
 
-![Metrics](/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/youngzm339)
