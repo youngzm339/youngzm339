@@ -1,6 +1,7 @@
-### Hi there 👋
-🔭 I’m currently working on Computer Network & Python for Django
+### Hi there, I'm [Brian Yang](https://github.com/YoungZM339)（YoungZM）. 👋
 
-📫 How to reach me  : Why not write an email to me?
+🔭 I’m currently working on Computer Network & Python for Django.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=youngzm339)](https://github.com/anuraghazra/github-readme-stats)
+📫 How to reach me : Why not write an email to me?
+
+![Metrics](/github-metrics.svg)
