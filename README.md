@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on Operating System
+🔭 I’m currently working on Computer Network & Python for Django
 
 📫 How to reach me  : Why not write an email to me?
 
