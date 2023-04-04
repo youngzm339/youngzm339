@@ -1,6 +1,6 @@
 ### Hi there, I'm [Brian Yang](https://github.com/YoungZM339)（YoungZM）. 👋
 
-🔭 I’m currently working on Computer Networking & Unity with C#
+🔭 I’m currently working on PyTorch CV
 
 📫 How to reach me : Why not write an email to me?
 
