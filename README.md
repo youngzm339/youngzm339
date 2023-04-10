@@ -1,7 +1,17 @@
-### Hi there, I'm [Brian Yang](https://github.com/YoungZM339)（YoungZM）. 👋
+### Hi there, [Brian Yang](https://github.com/YoungZM339)（YoungZM） here! 👋
 
-🔭 I’m currently working on PyTorch CV
+<img style="width: 45%" align="right" src="https://github-readme-stats.vercel.app/api?username=YoungZM339&show_icons=true" />
+
+I'm [Brian Yang](https://github.com/YoungZM339), a student currently working on PyTorch && Computer Vision
+
+Interested in all the fun things! Check these if you want:
+
+- [My Blog (zh-CN)](https://blog.youngzm.com/).
+- [My GitHub Account](https://github.com/YoungZM339).
+
 
 📫 How to reach me : Why not write an email to me?
 
-![Metrics](https://metrics.lecoq.io/YoungZM339?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
+
+<img style="width: 45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungZM339&layout=compact" />
+
