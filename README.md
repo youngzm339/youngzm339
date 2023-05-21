@@ -2,7 +2,7 @@
 
 <img style="width: 45%" align="right" src="https://github-readme-stats.vercel.app/api?username=YoungZM339&show_icons=true" />
 
-I'm [Brian Yang](https://github.com/YoungZM339), a student currently working on PyTorch && Computer Vision
+I'm [Brian Yang](https://github.com/YoungZM339), a student currently working on Python Django && Knowledge Graph
 
 Interested in all the fun things! Check these if you want:
 
