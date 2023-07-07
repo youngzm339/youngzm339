@@ -11,7 +11,3 @@ Interested in all the fun things! Check these if you want:
 
 
 📫 How to reach me : Why not write an email to me?
-
-
-<img style="width: 45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungZM339&layout=compact" />
-
