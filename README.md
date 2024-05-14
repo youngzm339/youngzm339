@@ -18,4 +18,4 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=YoungZM339&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Top Langs" height="185px">
 </a>
 
-📫 How to reach me : Why not write an email to me?
+📫 How to reach me : Why not [write an email to me](mailto:youngzm339@outlook.com)?
